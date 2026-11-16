@@ -1,5 +1,4 @@
-# -gsoc--learning
-my gsoc learning journey
+
 # My GSoC Learning Journey
 
 Hello! I am learning Git and GitHub.
